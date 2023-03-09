@@ -1,0 +1,2 @@
+# mkb_reestr
+MK BANK TEXNIKALAR REESTR TIZIMI
